@@ -1,0 +1,11 @@
+{
+  "id": "LustTravel2",
+  "name": "LustTravel2",
+  "author": "香烤奶油 (美术) & WRXinYue (程序) & 和一 (动画) & 九 (音乐)",
+  "description": "LustTravel2 mod for Slay the Spire 2",
+  "version": "0.14.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [ "STS2-RitsuLib" ],
+  "affects_gameplay": true
+}
